@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-group-invitation.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-group-invitation) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-group-invitation).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2`
+**7** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-08-03 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-08-04 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v0.1.1) |
+| `0.1.2` | 2020-11-17 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-04-16 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v0.1.3) |
+| `1.0.0` | 2021-06-09 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-04-01 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v1.0.1) |
+| `1.0.2` | 2022-09-20 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-invitation/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-group-invitation.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-group-invitation.json)
 
